@@ -1,6 +1,6 @@
 # 说明
 
-基于STM32的智能家居系统设计
+基于STM32的智能家居系统设计(stm32f103zet6)
 
 
 
@@ -17,3 +17,4 @@
 --
 使用语音播报模块播放温湿度等数值；
 使用人体监测模块用于防盗工作；
+![1](https://github.com/yychdu/STM32_GizwitsIOT_Project/raw/master/s.png)
