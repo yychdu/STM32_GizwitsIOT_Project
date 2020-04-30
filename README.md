@@ -17,4 +17,4 @@
 --
 使用语音播报模块播放温湿度等数值；
 使用人体监测模块用于防盗工作；
-![1](https://github.com/yychdu/STM32_GizwitsIOT_Project/raw/master/s.png)
+![1](https://github.com/yychdu/STM32_GizwitsIOT_Project/blob/master/OBJ/s.jpg)
